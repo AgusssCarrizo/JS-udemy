@@ -1,0 +1,13 @@
+.div {
+   height: 100px;
+   width: 200px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.div-rojo {
+   background-color: red;
+   text-align: center;
+   text-underline-position: above;
+}
